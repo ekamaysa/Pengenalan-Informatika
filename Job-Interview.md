@@ -46,7 +46,7 @@ Pengguna | Bisa melihat riwayat film yang pernah ditonton | ⭐⭐⭐
     Text Editor : VS Code
     Browser : Chrome
     Library : 
-    Framework 
+    Framework : Laravel
     Database : MySQL
 
 ## 6. Desain User Experience dan User Interface
