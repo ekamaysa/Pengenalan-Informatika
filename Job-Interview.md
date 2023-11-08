@@ -7,48 +7,30 @@ GoingToon adalah aplikasi mobile layanan yang menyediakan bermacam-macam film ka
 
 
 ## 1.3. Branding
-
-  Merk : GoingToon
-  
-  Tagline : "Watch together, be happy together"
-  
-  Campaign : Membuat Website/Aplikasi untuk menonton film kartun yang membuat penggunanya senang ketika menonton
-  
-  Target user :
-  
-  Usia 5+
-  
-  Anak-anak yang sedang masa pertumbuhan, sebagai edukasi
-  
-  Orang-orang yang senang terhadap film kartun
-  
-  Orang-orang yang senang berimajinasi
-  
-  Orang-orang yang senang Cerita atau karakter fiksi
+- Merk : GoingToon
+- Tagline : "Watch together, be happy together"
+- Campaign : Membuat Website/Aplikasi untuk menonton film kartun yang membuat penggunanya senang ketika menonton
+- Target user :
+  - Usia 5+
+  - Anak-anak yang sedang masa pertumbuhan, sebagai edukasi
+  - Orang-orang yang senang terhadap film kartun
+  - Orang-orang yang senang berimajinasi
+  - Orang-orang yang senang Cerita atau karakter fiksi
 
 ## 2. User Story
-
-Bisa menonton Film Kartun Favorit 
-
-Bisa mencari film yang ingin di tonton
-
-Bisa mendownload film untuk ditonton secara offline
-
-Bisa melihat film yang sedang populer
-
-Bisa melihat film-film kartun teruptodate
-
-Bisa melihat film kartun zaman dulu
-
-Bisa menonton film kartun dari berbagai negara
-
-Bisa melihat film kartun dengan berbagai genre
-
-Bisa menggunakan subtitle dalam berbagai bahasa
-
-Bisa mengatur resolusi film
-
-Bisa melihat riwayat film yang pernah ditonton
+Sebagai | Yang bisa dilakukan | prioritas
+---|---|---
+Pengguna | Bisa menonton Film Kartun Favorit | ⭐⭐⭐⭐⭐
+Pengguna | Bisa mencari film yang ingin di tonton | ⭐⭐⭐⭐⭐
+Pengguna | Bisa mendownload film untuk ditonton secara offline | ⭐⭐⭐
+Pengguna | Bisa melihat film yang sedang populer | ⭐⭐⭐
+Pengguna | Bisa melihat film-film kartun teruptodate | ⭐⭐⭐
+Pengguna | Bisa melihat film kartun zaman dulu | ⭐⭐
+Pengguna | Bisa menonton film kartun dari berbagai negara | ⭐⭐⭐⭐
+Pengguna | Bisa melihat film kartun dengan berbagai genre | ⭐⭐⭐⭐⭐
+Pengguna | Bisa menggunakan subtitle dalam berbagai bahasa | ⭐⭐
+Pengguna | Bisa mengatur resolusi film | ⭐⭐
+Pengguna | Bisa melihat riwayat film yang pernah ditonton | ⭐⭐⭐
 
 
 ## 3. Struktur Data
