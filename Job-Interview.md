@@ -33,7 +33,7 @@ Pengguna | Bisa melihat riwayat film yang pernah ditonton | ⭐⭐⭐
 
 
 ## 3. Struktur Data
-
+(./mermaid-diagram-2023-11-08-043550.png)
 
 ## 4. Arsitektur Sistem
 
