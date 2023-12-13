@@ -33,7 +33,9 @@ Pengguna | Bisa melihat riwayat film yang pernah ditonton | ⭐⭐⭐
 
 
 ## 3. Struktur Data
-![img](https://github.com/ekamaysa/ekamaysa/blob/main/Doc/Struktur%20Data.png?raw=true)
+<img width="406" alt="Screenshot 2023-12-13 122259" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/8a113b49-284f-42da-b73a-e623525e0803">
+
+
 ## 4. Arsitektur Sistem
 
 
