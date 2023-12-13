@@ -33,8 +33,7 @@ Pengguna | Bisa melihat riwayat film yang pernah ditonton | ⭐⭐⭐
 
 
 ## 3. Struktur Data
-(./mermaid-diagram-2023-11-08-043550.png)
-
+![img](https://github.com/ekamaysa/ekamaysa/blob/main/Doc/Struktur%20Data.png?raw=true)
 ## 4. Arsitektur Sistem
 
 
