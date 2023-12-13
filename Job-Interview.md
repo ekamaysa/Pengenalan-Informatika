@@ -50,6 +50,14 @@ Pengguna | Bisa melihat riwayat film yang pernah ditonton | ⭐⭐⭐
     Database : MySQL
 
 ## 6. Desain User Experience dan User Interface
+![Halaman 1](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/a74d6c2f-b685-4f45-a15f-36d9b1c59aba)
+![Halaman 2](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/4ff873b8-0ff1-4151-93e9-b24b391113c7)
+![Halaman 3](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/cf4a686a-5be5-4d4d-8009-62f4d2097b32)
+![Halaman 4](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/6273b1f3-3689-4b2b-824c-862bb694514e)
+![Halaman 5](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/99ab347f-f549-4285-acdf-e2d4c8d20cee)
+![Halaman 6](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/6c43bf4f-56fc-426a-9e59-ca86963f0aae)
+
+
 
 
 ## 7. Demonstrasi Video
