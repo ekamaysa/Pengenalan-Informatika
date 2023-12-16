@@ -68,60 +68,89 @@ flowchart TD
 
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+
 **Mesin Komputasi** : Istilah “komputasi” menjelaskan konsep dan objek yang berkaitan dengan komputasi perangkat lunak. Komputasi merupakan istilah umum yang biasa digunakan untuk merujuk pada daya pemrosesan, memori, jaringan, penyimpanan, dan sumber daya lainnya yang diperlukan agar komputasi program berhasil. Misalnya, aplikasi yang menjalankan algoritme machine learning atau fungsi rendering grafis 3D memerlukan bergiga-giga RAM dan beberapa CPU agar berhasil dijalankan. Dalam hal ini, CPU, RAM, dan Unit Pemroses Grafis yang diperlukan disebut sebagai sumber daya komputasi, dan aplikasinya disebut sebagai aplikasi intensif komputasi. Contoh Mesin komputasi diantara komputer atau perangkat mobile, adalah perangkat keras(hardware) yang menjadi dasar bagi produk teknologi informasi. Komponen seperti CPU, RAM, penyimpanan, dan perangkat keras lainnya memungkinkan perangkat tersebut untuk menjalankan perangkat lunak (software) yang merupakan inti dari produk teknologi informasi.
+
 **Sistem Operasi** : Sistem operasi adalah suatu program yang mengontrol eksekusi program aplikasi dan berfungsi sebagai antarmuka antara pengguna komputer dengan perangkat keras komputer. Sistem operasi menyediakan berbagai fasilitas dan layanan seperti editor dan debugger, untuk membantu para pemogram dalam membuat program.Sistem operasi bertindak sebagai penghubung antara pengguna, aplikasi, dan perangkat keras komputer. Sistem operasi mengatur penggunaan sumber daya komputer seperti CPU, memori, dan perangkat input/output. Sistem operasi sangat penting untuk memastikan bahwa komputer dapat beroperasi dengan efisien dan produktif. Sistem operasi memungkinkan pengguna untuk menjalankan program aplikasi, seperti aplikasi pengolah kata, peramban web, atau aplikasi multimedia. Sistem operasi memastikan bahwa program aplikasi tersebut berjalan dengan benar dan memperoleh akses ke sumber daya yang diperlukan. Contoh Sistem Operasi atau Operating System (OS) yaitu windows, linux, macOS,androis dan iOS.
+
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
+
 1. **Algoritma**
 Algoritma adalah metode atau langkah-langkah yang dirancang secara teratur dan berurutan untuk memecahkan atau menyelesaikan masalah melalui instruksi atau tindakan.
+
 **Peran atau fungsi algoritma** membantu memecahkan masalah secara logis dan menciptakan program yang efektif. Dan dengan adanya algoritma dapat menyederhanakan alur kerja dan logika saya untuk memudahkan dalam menulis kode atau source code, begitu juga dengan algoritma ini dapat meningkatkan kinerja, kecepatan, dan efektivitas dalam mengembangkan suatu produk.
+
 2. **Struktur Data**
 Struktur data adalah cara mengatur dan menyimpan sebuah struktur di sistem komputer atau database sehingga data tersebut lebih mudah untuk diakses. Struktur data memiliki format khusus yang berfungsi untuk mengatur, memproses, mengambil, dan menyimpan data.
+
 **Peran atau fungsi struktur data** antara lain dapat menyimpan data secara terstruktur dalam memori komputer dan memungkinkan akses dan manipulasi data yang efisien, mengatur data,membuat proses pemrograman lebih mudah, dan dengan adanya strutur data ini bisa meningkatkan kualitas alogaritma, dengan menggunakan struktur data yang tepat, pencarian data dapat dilakukan dengan cepat dan efisien, dan dengan memanfaatkan struktur data yang efisien, penggunaan memori dapat dioptimalkan dan alokasi memori dapat dilakukan secara tepat.
+
 3. **Bahasa pemrograman**
 Bahasa pemrograman adalah sistem komunikasi antara manusia dan mesin yang digunakan untuk menginstruksikan atau memberitahukan mesin komputasi dalam melakukan tugas tertentu.
+
 **Peran atau fungsi bahasa pemrograman** Bahasa pemrograman dapat mengatur kontrol perangkat internal ke perangkat eksternal. Bahasa pemrograman memungkinkan manusia untuk mengkomunikasikan instruksi ke mesin.Dan untuk projects yang saya buat ini saya menggunakan bahasa pemrograman HTML (HyperText Markup Language), CSS (Cascading Style Sheets), dan JavaScript. Dengan kombinasi ketiga bahasa pemrograman tersebut, pengembang dapat membangun website yang dinamis, menarik, dan responsif. HTML menyediakan struktur, CSS memberikan tampilan yang menarik, dan JavaScript memberikan interaktivitas kepada pengguna.
+
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
+
 Software Development Life Cycle (SDLC) berperan kunci dalam pengembangan produk teknologi, termasuk aplikasi streaming film. Dalam konteks aplikasi streaming film, SDLC membantu dalam merancang, mengembangkan, dan memelihara aplikasi dengan memastikan bahwa tahapan pengembangan dilakukan secara terstruktur dan efisien. Berikut adalah cara SDLC berperan dalam pengembangan aplikasi streaming film:
+
 **Perencanaan:**
 Peran dalam Aplikasi : Identifikasi tujuan dan kebutuhan aplikasi streaming film. Perencanaan ini mencakup penentuan fitur utama, pengalaman pengguna yang diinginkan, dan analisis persyaratan teknis dan fungsional.
 Manfaat: Memastikan bahwa tim pengembang memiliki pemahaman yang jelas tentang arah proyek dan tujuan aplikasi streaming film.
+
 **Analisis Kebutuhan:**
 Peran dalam Aplikasi : Mendefinisikan kebutuhan pengguna, fungsionalitas inti, dan persyaratan sistem. Ini melibatkan pemahaman mendalam tentang fitur-fitur streaming, manajemen konten, pengaturan pengguna, dan aspek-aspek keamanan.
 Manfaat: Memastikan bahwa pengembang memahami secara menyeluruh apa yang diinginkan oleh pengguna dan bagaimana aplikasi dapat memenuhi kebutuhan tersebut.
+
 **Desain:**
 Peran dalam Aplikasi : Merancang arsitektur aplikasi, antarmuka pengguna, dan basis data. Desain melibatkan pengambilan keputusan terkait bagaimana aplikasi akan menyajikan dan mengelola konten video, serta bagaimana pengguna akan berinteraksi dengan aplikasi.
 Manfaat: Menjamin bahwa aplikasi dirancang untuk kinerja dan skalabilitas optimal, serta memberikan pengalaman pengguna yang memuaskan.
+
 **Implementasi (Coding):**
 Peran dalam Aplikasi : Menuliskan kode untuk mengimplementasikan desain dan fungsionalitas yang telah ditentukan sebelumnya. Ini mencakup pengembangan backend, frontend, integrasi dengan layanan streaming, dan manajemen basis data.
 Manfaat: Menerjemahkan desain menjadi produk nyata dan menjaga konsistensi dengan persyaratan yang telah ditentukan.
+
 **Pengujian:**
 Peran dalam Aplikasi : Melakukan pengujian fungsional, uji kinerja, dan pengujian integrasi untuk memastikan bahwa aplikasi bekerja sebagaimana mestinya. Pengujian pada aplikasi streaming film juga melibatkan uji kualitas video, pemutaran streaming, dan pengujian beban.
 Manfaat: Menjamin bahwa aplikasi dapat menangani beban pengguna yang besar dan menyajikan konten video dengan kualitas tinggi.
+
 **Pengelolaan Perubahan dan Pemeliharaan:**
 Peran dalam Aplikasi : Mengelola perubahan dan pemeliharaan setelah aplikasi diluncurkan. Ini melibatkan pembaruan fitur, perbaikan bug, dan penanganan perubahan kebutuhan pengguna atau teknologi.
 Manfaat: Memastikan bahwa aplikasi tetap relevan, aman, dan dapat diandalkan sepanjang waktu.
 
 **SDLC membantu dalam menciptakan suatu proses yang terstruktur dan meminimalkan risiko kegagalan pengembangan. Dengan mengikuti langkah-langkah SDLC, pengembang dapat memastikan bahwa aplikasi streaming film dibangun dengan baik, dapat diandalkan, dan memberikan pengalaman streaming yang optimal kepada pengguna.**
+
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+
 Database atau sistem basis data berperan kunci dalam aplikasi streaming film dengan menyimpan, mengelola, dan menyediakan akses terhadap data yang diperlukan oleh aplikasi. Berikut adalah beberapa peran utama database dalam produk teknologi aplikasi streaming film:
+
 **Penyimpanan Konten Multimedia:**
 Database menyimpan file multimedia seperti video, audio, gambar, dan metadata terkait yang diperlukan untuk streaming film. Ini termasuk data kualitas video, informasi pemutaran, dan data lainnya.
+
 **Manajemen Konten:**
 Database digunakan untuk mengelola metadata konten seperti judul film, deskripsi, sutradara, pemeran, kategori, dan ulasan. Informasi ini membantu dalam pencarian, kategorisasi, dan penilaian konten.
+
 **Manajemen Pengguna:**
 Informasi pengguna seperti data akun, riwayat penontonan, preferensi, dan informasi otentikasi disimpan dalam database. Ini memungkinkan personalisasi pengalaman pengguna dan menyediakan rekomendasi konten yang relevan.
+
 **Manajemen Sesuai Hak Cipta:**
 Basis data memainkan peran dalam manajemen hak cipta dan lisensi. Ini mencakup informasi lisensi konten, pembatasan geografis, dan perincian hak distribusi.
+
 **Analisis dan Pelaporan:**
 Database menyimpan data tentang perilaku pengguna, seperti waktu pemutaran, durasi penontonan, dan reaksi pengguna terhadap konten. Data ini dapat digunakan untuk analisis kinerja, membuat laporan, dan meningkatkan rekomendasi konten.
+
 **Manajemen Koneksi dan Streaming:**
 Informasi terkait koneksi pengguna, kapasitas jaringan, dan preferensi resolusi streaming dapat disimpan dalam database. Ini membantu dalam mengoptimalkan kualitas pemutaran dan pengalaman pengguna berdasarkan kondisi jaringan.
+
 **Keamanan dan Perlindungan Data:**
 Basis data perlu mengelola keamanan data, termasuk otentikasi pengguna, enkripsi data sensitif, dan kontrol akses. Ini penting untuk melindungi informasi pribadi pengguna dan hak cipta konten.
+
 **Pemeliharaan Data:**
 Database memfasilitasi pemeliharaan data, termasuk perbaikan bug, pembaruan konten, dan penanganan pembaruan atau peningkatan aplikasi. Ini memastikan ketersediaan data yang konsisten dan up-to-date.
+
 **Skalabilitas:**
 Database harus dapat berkembang seiring dengan pertumbuhan aplikasi dan jumlah pengguna. Desain database yang baik memungkinkan skalabilitas horizontal atau vertikal untuk mengatasi beban pengguna yang meningkat.
+
 **Backup dan Pemulihan:**
 Database menyediakan mekanisme untuk melakukan pencadangan data secara teratur dan memungkinkan pemulihan data dalam kasus kegagalan sistem atau insiden lainnya.
 
