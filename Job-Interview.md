@@ -38,7 +38,6 @@ Pengguna | Bisa melihat riwayat film yang pernah ditonton | ⭐⭐⭐⭐
 Pengguna | Bisa Berlangganan dengan membayar tagihan perbulan | ⭐⭐⭐
 Pengguna | Bisa menonton film favorit tanpa gangguan iklan yang berlebihan ketika sudah berlanganan | ⭐⭐⭐⭐
 Pengguna | Bisa menonton film terbaru ketika sudah berlangganan | ⭐⭐⭐
-
 Pengguna | Bisa mendapatkan tawaran percobaan gratis atau promosi khusus untuk dapat mencoba layanan tanpa membayar |  ⭐⭐⭐
 
 
