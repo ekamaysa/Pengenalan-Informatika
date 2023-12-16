@@ -27,9 +27,20 @@ Pengguna | Bisa melihat film-film kartun teruptodate | ⭐⭐⭐
 Pengguna | Bisa melihat film kartun zaman dulu | ⭐⭐
 Pengguna | Bisa menonton film kartun dari berbagai negara | ⭐⭐⭐⭐
 Pengguna | Bisa melihat film kartun dengan berbagai genre | ⭐⭐⭐⭐⭐
-Pengguna | Bisa menggunakan subtitle dalam berbagai bahasa | ⭐⭐
-Pengguna | Bisa mengatur resolusi film | ⭐⭐
-Pengguna | Bisa melihat riwayat film yang pernah ditonton | ⭐⭐⭐
+Pengguna | Bisa menggunakan subtitle dalam berbagai bahasa | ⭐⭐⭐
+Pengguna | Bisa menyusun daftar putar pribadi | ⭐⭐⭐
+Pengguna | Bisa mendapatkan rekomendasi film berdasarkan sejarah penontonan | ⭐⭐⭐⭐
+Pengguna | Bisa memiliki kontrol orang tua yang efektif untuk membatasi akses anak-anak terhadap konten yang tidak sesuai | ⭐⭐⭐⭐⭐
+Pengguna | Bisa mendapatkan notifikasi ketika episode terbaru dari seri TV favorit telah dirilis | ⭐⭐⭐⭐
+Pengguna | Bisa berbagi atau merekomendasikan film kepada teman-temannya melalui platform media sosial | ⭐⭐⭐⭐
+Pengguna | Bisa mengatur resolusi film | ⭐⭐⭐⭐
+Pengguna | Bisa melihat riwayat film yang pernah ditonton | ⭐⭐⭐⭐
+Pengguna | Bisa Berlangganan dengan membayar tagihan perbulan | ⭐⭐⭐
+Pengguna | Bisa menonton film favorit tanpa gangguan iklan yang berlebihan ketika sudah berlanganan | ⭐⭐⭐⭐
+Pengguna | Bisa menonton film terbaru ketika sudah berlangganan | ⭐⭐⭐
+
+Pengguna | Bisa mendapatkan tawaran percobaan gratis atau promosi khusus untuk dapat mencoba layanan tanpa membayar |  ⭐⭐⭐
+
 
 
 ## 3. Struktur Data
