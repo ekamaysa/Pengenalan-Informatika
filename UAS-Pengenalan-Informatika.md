@@ -184,7 +184,7 @@ Referensi []
 https://www.duolingo.com/profile/EkaMay
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-
+https://hellotalk.com/u/eka_may
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 
@@ -192,6 +192,9 @@ https://www.duolingo.com/profile/EkaMay
 
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+https://roadmap.sh/account/update-profile
+<img width="956" alt="Screenshot 2023-12-20 233713" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/33d1885a-1196-48f3-b60e-5b2490934b34">
+<img width="957" alt="Screenshot 2023-12-20 233731" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/dfdb14b3-cfe4-46f5-ab4b-5c816e1268b0">
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
@@ -199,8 +202,7 @@ https://www.duolingo.com/profile/EkaMay
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 https://www.linkedin.com/in/eka-maysa-rahmah-9741662a2/
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
-
+https://github.com/ekamaysa
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 
