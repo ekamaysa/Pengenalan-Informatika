@@ -21,7 +21,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
-public class BubbleSortHewan {
+    public class BubbleSortHewan {
+
     public static void main(String[] args) {
         // Membuat array dari objek Hewan
         Hewan[] hewanArray = {
