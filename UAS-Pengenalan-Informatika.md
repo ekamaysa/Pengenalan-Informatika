@@ -63,10 +63,10 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
             System.out.println(hewan);
         }
     }
-}
-
+    }
 // Kelas Hewan untuk merepresentasikan objek Hewan
-class Hewan {
+    
+    class Hewan {
     private String nama;
     private int berat;
 
