@@ -20,6 +20,72 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+public class BubbleSortHewan {
+
+    public static void main(String[] args) {
+        // Membuat array dari objek Hewan
+        Hewan[] hewanArray = {
+                new Hewan("Gajah", 500),
+                new Hewan("Jerapah", 400),
+                new Hewan("Singa", 300),
+                new Hewan("Harimau", 450),
+                new Hewan("Zebra", 350)
+        };
+
+        System.out.println("Daftar Hewan sebelum diurutkan:");
+        printArray(hewanArray);
+
+        bubbleSort(hewanArray);
+
+        System.out.println("\nDaftar Hewan setelah diurutkan:");
+        printArray(hewanArray);
+    }
+
+    // Metode untuk melakukan Bubble Sort pada objek Hewan
+    static void bubbleSort(Hewan[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n - 1; i++) {
+            for (int j = 0; j < n - i - 1; j++) {
+                // Jika berat Hewan ke-j lebih besar dari berat Hewan ke-(j+1), tukar mereka
+                if (arr[j].getBerat() < arr[j + 1].getBerat()) {
+                    Hewan temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                }
+            }
+        }
+    }
+
+    // Metode untuk mencetak elemen-elemen array Hewan
+    static void printArray(Hewan[] arr) {
+        for (Hewan hewan : arr) {
+            System.out.println(hewan);
+        }
+    }
+}
+
+// Kelas Hewan untuk merepresentasikan objek Hewan
+class Hewan {
+    private String nama;
+    private int berat;
+
+    public Hewan(String nama, int berat) {
+        this.nama = nama;
+        this.berat = berat;
+    }
+
+    public int getBerat() {
+        return berat;
+    }
+
+    @Override
+    public String toString() {
+        return "Hewan{" +
+                "nama='" + nama + '\'' +
+                ", berat=" + berat +
+                '}';
+    }
+}
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
