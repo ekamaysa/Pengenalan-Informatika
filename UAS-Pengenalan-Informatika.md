@@ -1,7 +1,6 @@
 # Hello Informatics !
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-
-
+https://ekamay10.wordpress.com/2023/12/20/computational-thinking/
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
