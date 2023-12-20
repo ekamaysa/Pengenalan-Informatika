@@ -181,7 +181,7 @@ Referensi []
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-
+https://www.duolingo.com/profile/EkaMay
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
@@ -197,8 +197,7 @@ Referensi []
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
-
-
+https://www.linkedin.com/in/eka-maysa-rahmah-9741662a2/
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 
