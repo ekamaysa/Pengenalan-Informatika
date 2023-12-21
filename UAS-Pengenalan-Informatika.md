@@ -165,7 +165,8 @@ https://huggingface.co/ekamay
 <img width="960" alt="Screenshot 2023-12-22 003613" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/14e7c383-baa5-41ab-b3b6-ccc41250f382">
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-
+https://www.kaggle.com/ekamaysar
+<img width="960" alt="Screenshot 2023-12-22 004321" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/0d5752cf-dd9a-4956-b1fa-32edcfc536d8">
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
