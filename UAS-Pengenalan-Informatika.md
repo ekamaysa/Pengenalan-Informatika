@@ -161,6 +161,8 @@ Referensi []
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+https://huggingface.co/ekamay
+<img width="960" alt="Screenshot 2023-12-22 003613" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/14e7c383-baa5-41ab-b3b6-ccc41250f382">
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
