@@ -88,7 +88,7 @@ MySQL berbasis pada model basis data relasional, yang memungkinkan pengorganisas
 
 ## 7. Demonstrasi Video
 
-
+https://youtu.be/MYAxfq9hJkg?si=zlkez2HHyTIstCdk
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
