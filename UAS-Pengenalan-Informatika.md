@@ -94,6 +94,9 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+https://youtu.be/MYAxfq9hJkg?si=bRk_0C1oF3ucD14t
+https://youtu.be/QLhx30OobS0?si=HLsLjRJ44Iy0C8ma
+
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
