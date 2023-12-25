@@ -3,6 +3,8 @@
 https://ekamay10.wordpress.com/2023/12/20/computational-thinking/
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
+https://ekamay10.wordpress.com/2023/12/25/jenis-jenis-mesin-komputasi/
+
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 ## Mencoba Console Sistem Operasi
