@@ -185,7 +185,9 @@ https://www.kaggle.com/ekamaysar
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+![Profesi Terkait Informatika](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/8eb06e10-6bf3-4083-b835-0f7b129b7ccf)
 
+Penjelasan selengkapnya ada disini:
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 https://www.duolingo.com/profile/EkaMay
 
