@@ -104,6 +104,7 @@ https://youtu.be/mdYuPZOPx2w?si=uXcDSpCjUZH-A8G5
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 https://youtu.be/MYAxfq9hJkg?si=bRk_0C1oF3ucD14t
+
 https://youtu.be/QLhx30OobS0?si=HLsLjRJ44Iy0C8ma
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
@@ -118,6 +119,9 @@ Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+<img width="514" alt="Screenshot 2023-12-27 013327" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/261a5c46-3049-4f78-ac32-3459b873953e">
+<img width="427" alt="Screenshot 2023-12-27 013343" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/1597a601-cf75-4d7a-b0d1-0fc561fca0d8">
+<img width="960" alt="Screenshot 2023-12-27 013402" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/d118d05f-a839-44f2-a5d7-26062d37e6f4">
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
