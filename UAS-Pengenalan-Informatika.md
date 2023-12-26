@@ -10,7 +10,9 @@ https://ekamay10.wordpress.com/2023/12/25/jenis-jenis-mesin-komputasi/
 <img width="960" alt="Screenshot 2023-12-26 164959" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/80c70d69-ff4b-429c-bfd7-9334c75b0e41">
 
 ## Mencoba Console Sistem Operasi
+<img width="960" alt="Screenshot 2023-12-26 223147" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/aff73342-0e5d-4240-9999-1dbfffdeb323">
 
+File yang saya cari tidak ditemukan terus entah apa faktor yang menyebabkan hal-hal tersebut
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
