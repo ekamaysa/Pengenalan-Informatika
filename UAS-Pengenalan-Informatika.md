@@ -20,12 +20,13 @@ File yang saya cari tidak ditemukan terus entah apa faktor yang menyebabkan hal-
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+https://youtu.be/Y37YaJglPjI?si=O1MB343zPG6PUpsB
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-
+https://youtu.be/_7NjJpxdc8g?si=ebvEpbv4Lz8Ei6ZS
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
+https://youtu.be/mdYuPZOPx2w?si=uXcDSpCjUZH-A8G5
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
