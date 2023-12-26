@@ -6,10 +6,12 @@ https://ekamay10.wordpress.com/2023/12/20/computational-thinking/
 https://ekamay10.wordpress.com/2023/12/25/jenis-jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-
+<img width="960" alt="Screenshot 2023-12-26 164635" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/f529b85c-8fc8-47a8-a4bc-1816589c8aab">
+<img width="960" alt="Screenshot 2023-12-26 164959" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/80c70d69-ff4b-429c-bfd7-9334c75b0e41">
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
