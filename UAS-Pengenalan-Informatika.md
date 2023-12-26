@@ -107,6 +107,12 @@ https://youtu.be/MYAxfq9hJkg?si=bRk_0C1oF3ucD14t
 https://youtu.be/QLhx30OobS0?si=HLsLjRJ44Iy0C8ma
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+<img width="424" alt="Screenshot 2023-12-27 012247" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/af44f667-ae37-4f28-b3ae-71686ab57b10">
+<img width="960" alt="Screenshot 2023-12-27 012630" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/9e356239-22f5-4e09-8cf2-fe90bccb88e4">
+<img width="646" alt="Screenshot 2023-12-27 012859" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/c81a9c39-5710-4fc6-90da-bb34b15a6dfc">
+<img width="534" alt="Screenshot 2023-12-27 013044" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/3f7ed09f-aca6-4175-a46e-7986fc09731f">
+
+
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
