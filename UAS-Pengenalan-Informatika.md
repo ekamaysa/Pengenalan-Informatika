@@ -143,6 +143,8 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 https://ekamay10.wordpress.com/2023/12/28/html-css-dan-javascript/
 
+https://youtu.be/v_sCdc1Z5Ng?si=CRYt_QjdCKp9vijb
+
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
