@@ -24,6 +24,7 @@ https://youtu.be/Y37YaJglPjI?si=O1MB343zPG6PUpsB
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 https://youtu.be/_7NjJpxdc8g?si=ebvEpbv4Lz8Ei6ZS
+
 <img width="460" alt="Screenshot 2023-12-26 233532" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/8d5586bb-b6ad-4b3e-9e51-e98b54f4a2ec">
 
 
