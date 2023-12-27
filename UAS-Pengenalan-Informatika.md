@@ -130,7 +130,7 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 https://ekamay10.wordpress.com/2023/12/28/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
+https://ekamay10.wordpress.com/2023/12/28/komponen-dari-contoh-uniform-resource-locator-url/
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
