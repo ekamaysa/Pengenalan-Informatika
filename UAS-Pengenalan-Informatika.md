@@ -21,16 +21,16 @@ File yang saya cari tidak ditemukan terus entah apa faktor yang menyebabkan hal-
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-https://youtu.be/Y37YaJglPjI?si=O1MB343zPG6PUpsB
+link : https://youtu.be/Y37YaJglPjI?si=O1MB343zPG6PUpsB
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-https://youtu.be/_7NjJpxdc8g?si=ebvEpbv4Lz8Ei6ZS
+link : https://youtu.be/_7NjJpxdc8g?si=ebvEpbv4Lz8Ei6ZS
 
 <img width="460" alt="Screenshot 2023-12-26 233532" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/8d5586bb-b6ad-4b3e-9e51-e98b54f4a2ec">
 
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-https://youtu.be/mdYuPZOPx2w?si=uXcDSpCjUZH-A8G5
+link : https://youtu.be/mdYuPZOPx2w?si=uXcDSpCjUZH-A8G5
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
@@ -104,7 +104,7 @@ https://youtu.be/mdYuPZOPx2w?si=uXcDSpCjUZH-A8G5
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-https://youtu.be/dJmwBTkfRcM?si=G82duNDk6NUx2uz_
+link : https://youtu.be/dJmwBTkfRcM?si=G82duNDk6NUx2uz_
 
 <img width="350" alt="Screenshot 2023-12-25 181226" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/b5d0dbd1-51bd-4f89-8206-3adbacd661de">
 <img width="350" alt="Screenshot 2023-12-28 223931" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/e06108e2-2080-446c-97e6-82ca4ee6c411">
@@ -117,9 +117,9 @@ https://youtu.be/dJmwBTkfRcM?si=G82duNDk6NUx2uz_
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-https://youtu.be/MYAxfq9hJkg?si=bRk_0C1oF3ucD14t
+link : https://youtu.be/MYAxfq9hJkg?si=bRk_0C1oF3ucD14t
 
-https://youtu.be/QLhx30OobS0?si=HLsLjRJ44Iy0C8ma
+link : https://youtu.be/QLhx30OobS0?si=HLsLjRJ44Iy0C8ma
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 <img width="424" alt="Screenshot 2023-12-27 012247" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/af44f667-ae37-4f28-b3ae-71686ab57b10">
@@ -143,8 +143,13 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 https://ekamay10.wordpress.com/2023/12/28/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
+link : https://youtu.be/2kNm7MEZPe4?si=jAZJVSD42jjLkI4C
+
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 https://ekamay10.wordpress.com/2023/12/28/komponen-dari-contoh-uniform-resource-locator-url/
+
+link : https://youtu.be/Zu6iz0JOE9c?si=WyCniyKo9VGTRvAn
+
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
