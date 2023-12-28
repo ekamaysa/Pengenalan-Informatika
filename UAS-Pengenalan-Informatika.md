@@ -104,6 +104,16 @@ https://youtu.be/mdYuPZOPx2w?si=uXcDSpCjUZH-A8G5
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+https://youtu.be/dJmwBTkfRcM?si=G82duNDk6NUx2uz_
+
+<img width="350" alt="Screenshot 2023-12-25 181226" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/b5d0dbd1-51bd-4f89-8206-3adbacd661de">
+<img width="350" alt="Screenshot 2023-12-28 223931" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/e06108e2-2080-446c-97e6-82ca4ee6c411">
+<img width="350" alt="Screenshot 2023-12-28 224148" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/e067f1d7-5e59-417a-9951-a2e0d6fa51c0">
+<img width="350" alt="Screenshot 2023-12-28 224436" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/8888c1fa-df0b-4ae0-a1e0-011e0203d10b">
+<img width="350" alt="Screenshot 2023-12-28 225416" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/0d78bd32-ee78-4afd-acc7-7144c15e33b5">
+<img width="350" alt="Screenshot 2023-12-28 225610" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/4152d347-61a4-4fd8-901b-2a5449341666">
+<img width="350" alt="Screenshot 2023-12-28 230035" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/ae8548f7-5ad4-4187-a051-c7efc467120f">
+
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
