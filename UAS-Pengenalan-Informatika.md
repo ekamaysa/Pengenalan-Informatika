@@ -167,7 +167,7 @@ Referensi tutorial
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
+link : https://youtu.be/zkEAfx9qeuc?si=Kw0ZnRhY-7DghBCc
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
