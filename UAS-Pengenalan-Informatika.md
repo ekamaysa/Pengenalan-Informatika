@@ -233,13 +233,12 @@ https://www.kaggle.com/ekamaysar
 
 Penjelasan selengkapnya ada disini:
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-https://www.duolingo.com/profile/EkaMay
+link : https://www.duolingo.com/profile/EkaMay
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-https://hellotalk.com/u/eka_may
+link : https://hellotalk.com/u/eka_may
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
-
+link : https://ekamay10.wordpress.com/2023/12/30/eksplorasi-lowongan-pekerjaan-it/
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 
@@ -252,9 +251,9 @@ https://roadmap.sh/account/update-profile
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
-https://www.linkedin.com/in/eka-maysa-rahmah-9741662a2/
+link : https://www.linkedin.com/in/eka-maysa-rahmah-9741662a2/
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-https://github.com/ekamaysa
+link : https://github.com/ekamaysa
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 
