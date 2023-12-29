@@ -168,9 +168,11 @@ Referensi tutorial
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 link : https://youtu.be/zkEAfx9qeuc?si=Kw0ZnRhY-7DghBCc
+
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+<img width="594" alt="Screenshot 2023-12-29 234620" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/640a80a3-d3cd-4e6f-bb1f-e45bedba5e19">
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
