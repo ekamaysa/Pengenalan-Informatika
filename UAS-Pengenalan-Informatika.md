@@ -198,11 +198,11 @@ https://ekamay10.wordpress.com/2023/12/30/amazon-web-services-aws/
 
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-![WhatsApp Image 2023-12-30 at 18 23 14_7f46aa0b](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/efcc1462-47d5-4d32-b6ec-bcbf01ba5362)
-![WhatsApp Image 2023-12-30 at 18 23 13_588836a1](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/09e5000b-35d8-4ee0-9e1a-2f8560997f8e)
-![WhatsApp Image 2023-12-30 at 18 23 14_10eb6b79](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/29693017-f2ba-4355-b54f-1f4d2bfd91a7)
-![WhatsApp Image 2023-12-30 at 18 23 13_27b58c86](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/9c186210-a07a-47c1-a272-2abaf1ff375b)
-![WhatsApp Image 2023-12-30 at 18 23 13_30fbdc6b](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/e6a274f6-5639-49d7-bba6-e0e126ae7f99)
+![1](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/6150de67-1bc8-484c-9ca4-9223dc4cf0ab)
+![2](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/2f5d6d54-bd07-4822-9477-c2037537438a)
+![33](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/edc0151a-962d-4e25-aedb-a044390a141e)
+![44](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/34b9e832-8c32-48cc-9c8d-a43d87b12a1f)
+
 
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
