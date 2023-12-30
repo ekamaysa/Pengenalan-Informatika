@@ -1,4 +1,4 @@
-<img width="400" alt="Screenshot 2023-12-30 205906" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/bc1e7abe-2aac-4b1b-a4f2-05e33901567e"># Hello Informatics !
+# Hello Informatics !
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 https://ekamay10.wordpress.com/2023/12/20/computational-thinking/
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
