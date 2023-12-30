@@ -195,7 +195,7 @@ link : https://youtu.be/4fUt-wKWrJY
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 https://ekamay10.wordpress.com/2023/12/30/amazon-web-services-aws/
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
-
+https://wordpress.com/post/ekamay10.wordpress.com/37
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 <img width="350" alt="Screenshot 2023-12-30 181600" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/d3b2673b-c2fd-4f80-bf53-c4b47d0af8ac">
