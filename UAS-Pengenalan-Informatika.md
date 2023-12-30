@@ -186,8 +186,7 @@ link : https://youtu.be/BFuj2KxYwAo
 link : https://youtu.be/4fUt-wKWrJY
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-
-
+https://ekamay10.wordpress.com/2023/12/30/amazon-web-services-aws/
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 
