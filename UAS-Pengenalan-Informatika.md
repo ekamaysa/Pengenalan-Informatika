@@ -1,4 +1,4 @@
-# Hello Informatics !
+<img width="400" alt="Screenshot 2023-12-30 205906" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/bc1e7abe-2aac-4b1b-a4f2-05e33901567e"># Hello Informatics !
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 https://ekamay10.wordpress.com/2023/12/20/computational-thinking/
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
@@ -252,11 +252,17 @@ https://www.kaggle.com/ekamaysar
 <img width="350" alt="ORC2" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/23261a89-b9d9-46df-b115-e97307993d4c">
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+https://wordpress.com/post/ekamay10.wordpress.com/37
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐\
+<img width="400" alt="Screenshot 2023-12-30 205054" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/679823d8-2b94-4e7b-8992-cda127cc9dca">
+<img width="400" alt="Screenshot 2023-12-30 205110" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/01495a2a-b09e-46c5-a44f-a9a6a3ad58ab">
+<img width="400" alt="Screenshot 2023-12-30 205124" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/ac4bddb9-b6aa-46e9-8df6-5916b2b79a4f">
 
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+<img width="500" alt="Screenshot 2023-12-30 205738" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/c111bef8-3b6b-4e05-a0a8-bd4024bbd4e4">
+
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 ![Profesi Terkait Informatika](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/8eb06e10-6bf3-4083-b835-0f7b129b7ccf)
@@ -270,6 +276,9 @@ link : https://hellotalk.com/u/eka_may
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 link : https://ekamay10.wordpress.com/2023/12/30/eksplorasi-lowongan-pekerjaan-it/
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+<img width="400" alt="Screenshot 2023-12-30 205906" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/49096d79-2b7d-49ff-a850-f5d7ee10d1b1">
+<img width="400" alt="Screenshot 2023-12-30 205932" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/f77200c1-e5e0-492d-beab-f469e6058315">
+<img width="400" alt="Screenshot 2023-12-30 205950" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/379ede3e-e23f-45dc-80e3-f2ac16160718">
 
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
@@ -278,6 +287,8 @@ https://roadmap.sh/account/update-profile
 <img width="957" alt="Screenshot 2023-12-20 233731" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/dfdb14b3-cfe4-46f5-ab4b-5c816e1268b0">
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+<img width="400" alt="Screenshot 2023-12-30 210356" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/3f61e7f4-35c4-4769-b20f-261d24c27120">
+<img width="400" alt="Screenshot 2023-12-30 210424" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/5af94313-4e48-4320-ab3a-c67b77e16427">
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
@@ -285,6 +296,11 @@ link : https://www.linkedin.com/in/eka-maysa-rahmah-9741662a2/
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 link : https://github.com/ekamaysa
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+![WhatsApp Image 2023-12-30 at 21 07 37_2f46b2fa](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/163853c3-f5be-4ea6-b732-912a3ef2886f)
+![WhatsApp Image 2023-12-30 at 21 08 51_9966eaab](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/996d8009-a6f7-442e-8378-4e386fdb41a2)
 
-
+ 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+[machine learning.pdf](https://github.com/ekamaysa/Pengenalan-Informatika/files/13798269/machine.learning.pdf)
+
+
