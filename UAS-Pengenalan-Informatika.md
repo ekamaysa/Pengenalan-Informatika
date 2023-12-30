@@ -154,6 +154,9 @@ link : https://youtu.be/Zu6iz0JOE9c?si=WyCniyKo9VGTRvAn
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+<img width="400" alt="Screenshot 2023-12-31 062249" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/8bea183a-faf4-4259-9b14-91514a0b0e39">
+<img width="400" alt="Screenshot 2023-12-31 062312" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/73dcfdc5-a7b9-4172-8a43-238a4d65a0b0">
+<img width="400" alt="Screenshot 2023-12-31 062329" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/7085ed9a-896c-457c-bc71-74b20435d552">
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
