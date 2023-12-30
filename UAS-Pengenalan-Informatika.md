@@ -179,9 +179,12 @@ Referensi []
 link : https://youtu.be/BFuj2KxYwAo
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-https://youtu.be/BFuj2KxYwAo?si=swx9yB8t8AeyriDq
+link : https://youtu.be/BFuj2KxYwAo?si=swx9yB8t8AeyriDq
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+<img width="400" alt="Screenshot 2023-12-30 200540" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/f92637c2-e6b3-4d56-bdc8-79fd775d58b3">
+<img width="400" alt="Screenshot 2023-12-30 200706" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/82f5097b-c56a-4168-8bae-d27c171ef2c3">
+
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 link : https://youtu.be/4fUt-wKWrJY
