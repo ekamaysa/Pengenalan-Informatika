@@ -226,8 +226,12 @@ https://colab.research.google.com/drive/1eA2FdEZUUJL6FxNtT_Ezcvz6mtukXtjb#scroll
 https://colab.research.google.com/drive/1eA2FdEZUUJL6FxNtT_Ezcvz6mtukXtjb#scrollTo=NS5c-yPgc6El
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+https://youtu.be/i7XZUMDAy9s
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+https://colab.research.google.com/drive/1ZTDdRbK4i7FNMm5sVj7NMbD-iSXFz8kT?hl=id
+
+link : https://youtu.be/SpfCNMX2F7c
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 https://huggingface.co/ekamay
