@@ -210,12 +210,16 @@ https://ekamay10.wordpress.com/2023/12/30/amazon-web-services-aws/
 <img width="400" alt="Screenshot 2023-12-30 184751" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/2bd5ca3f-9478-4c0c-99b0-137dd959c1e7">
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+https://colab.research.google.com/drive/1eA2FdEZUUJL6FxNtT_Ezcvz6mtukXtjb#scrollTo=NS5c-yPgc6El
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+https://colab.research.google.com/drive/1eA2FdEZUUJL6FxNtT_Ezcvz6mtukXtjb#scrollTo=NS5c-yPgc6El
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+https://colab.research.google.com/drive/1eA2FdEZUUJL6FxNtT_Ezcvz6mtukXtjb#scrollTo=NS5c-yPgc6El
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+https://colab.research.google.com/drive/1eA2FdEZUUJL6FxNtT_Ezcvz6mtukXtjb#scrollTo=NS5c-yPgc6El
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
