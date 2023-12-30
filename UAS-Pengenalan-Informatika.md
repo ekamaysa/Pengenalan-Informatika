@@ -176,7 +176,7 @@ Referensi []
 <img width="594" alt="Screenshot 2023-12-29 234620" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/640a80a3-d3cd-4e6f-bb1f-e45bedba5e19">
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+link : https://youtu.be/BFuj2KxYwAo
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
