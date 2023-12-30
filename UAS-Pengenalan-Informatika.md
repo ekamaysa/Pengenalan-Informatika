@@ -206,6 +206,8 @@ https://ekamay10.wordpress.com/2023/12/30/amazon-web-services-aws/
 
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+<img width="400" alt="Screenshot 2023-12-30 184834" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/3bfd25a4-464c-43b4-96b5-23675bf47be5">
+<img width="400" alt="Screenshot 2023-12-30 184751" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/2bd5ca3f-9478-4c0c-99b0-137dd959c1e7">
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
