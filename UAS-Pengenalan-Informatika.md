@@ -242,10 +242,14 @@ https://www.kaggle.com/ekamaysar
 <img width="960" alt="Screenshot 2023-12-22 004321" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/0d5752cf-dd9a-4956-b1fa-32edcfc536d8">
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![WhatsApp Image 2023-12-30 at 20 33 28_6b154def](https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/1a0d19a1-e968-4282-8cd2-ffbe54ae73be)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+<img width="400" alt="File CSV " src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/f3a4d43a-7b26-499c-bd08-8902db3dbfdf">
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+<img width="350" alt="ORC" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/0aad6e7f-7199-4d8e-bc21-84689ce95899">
+<img width="350" alt="ORC2" src="https://github.com/ekamaysa/Pengenalan-Informatika/assets/144700802/23261a89-b9d9-46df-b115-e97307993d4c">
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
