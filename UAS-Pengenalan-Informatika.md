@@ -301,6 +301,24 @@ link : https://github.com/ekamaysa
 
  
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-[machine learning.pdf](https://github.com/ekamaysa/Pengenalan-Informatika/files/13798269/machine.learning.pdf)
+PENGENALAN KONSEP
+MACHINE LEARNING
+UNTUK PEMULA
 
+Penulis : 
 
+Gregorius N. Elwirehardja
+
+Teddy Suparyanto
+
+Bens Pardamean
+
+Isinya :
+
+Dengan revolusi industri 4.0, sistem cerdas atau sistem 
+canggih dapat ditemukan di sekitar kita. Sebagai contoh, saat kita 
+mengambil foto dengan kamera pada smartphone, kita dapat secara 
+otomatis memfokuskan kamera pada wajah manusia, yaitu fitur face 
+detection pada saat kita melakukan swafoto. Bahkan di dunia medis 
+pun, banyak sistem Computer-Aided Diagnosis (CAD) yang bisa 
+membantu dokter dalam melakukan pemeriksaan pada para pasiennya. Tentunya semua teknologi ini tidak lepas dari sistem cerdas, di mana teknologi Artificial Intelligence (AI) sudah berperan. Namun untuk melakukan tugas-tugas di atas, akan sangat memakan waktu jika kita memprogram rangkaian aturan satu persatu untuk setiap jenis penyakit demi membuat sistem cerdas tersebut. Untuk mengatasi masalah ini, teknologi Machine Learning dapat menjadi solusinya. Machine learning adalah bidang ilmu yang mempelajari cara membuat model AI dapat belajar. Umumnya, model AI ini disebut sebagai model machine learning, yaitu model algoritma komputasi yang mampu menyimpan serta mengubah knowledge yang ia miliki melalui proses pembelajaran dari data. Model Machine learning adalah salah satu jenis model AI yang paling banyak digunakan di era 4.0, baik untuk data berupa tabel, teks, suara, dan sebagainya.
